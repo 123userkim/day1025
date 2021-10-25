@@ -2,6 +2,7 @@ package com.sist.exam05;
 
 
 public class ProcessScore{ 
+	
 	public static double AvgCal(int[] arr) throws IllegalScore {
 		int avg =0;
 		int sum=0;
